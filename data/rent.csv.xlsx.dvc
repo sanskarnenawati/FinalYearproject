@@ -1,0 +1,5 @@
+outs:
+- md5: 6025bf5ee85089254dff4bc2d9107f17
+  size: 6192
+  hash: md5
+  path: rent.csv.xlsx
